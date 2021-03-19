@@ -12,3 +12,7 @@ pip install requests
 pip install bs4
 
 pip install psutil
+
+🌐 ====== Canal ====== 🌐
+
+https://www.youtube.com/channel/UCqwHsH9sVzvpLpSVWNOFUpQ
